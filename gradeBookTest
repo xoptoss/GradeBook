@@ -3,7 +3,6 @@ package mainPackage;
 public class gradeBookTest {
 	public static void main(String[] args) {
 	
-
 		gradeBook myGradeBook = new gradeBook();
 		myGradeBook.displayMessage();
 	}
